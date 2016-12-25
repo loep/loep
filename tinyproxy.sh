@@ -144,7 +144,7 @@ for (( ;; )) ; do
 		fi
 
 		get=`echo "$log_file" | grep -o -P '.{0,0}GET.{0,}' | cut -d '/' -f 3 | sort | uniq -c | tr -s ' ' | sort -nr | head -n $log_grep`
-		if [ -z "$post" ] ; then
+		if [ -z "$get" ] ; then
 
 			echo '
 				<div class="row">
