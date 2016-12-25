@@ -368,7 +368,7 @@ eth0 ethernet 01' > /opt/loep_v1.0/conf/interface.conf
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="">
 		<meta name="author" content="">
-		<title>ELab enterprise monitoring system</title>
+		<title>Loep v1.0 [ Monitoring Linux Events and Resources ]</title>
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/sb-admin.css" rel="stylesheet">
 		<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
