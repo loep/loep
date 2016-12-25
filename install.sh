@@ -326,7 +326,7 @@ eth0 ethernet 01' > /opt/loep_v1.0/conf/interface.conf
 		<div class="page-header">
 		<h2>Tutorial video</h2>
 		</div>
-		<p>The installation is very simple and easy and do not need many dependency and library. Before installation, please watch tutorial video using <a target="_blank" href="https://github.com/loep/">this link</a>.</p>
+		<p>The installation is very simple and easy and do not need many dependency and library. Before installation, please watch tutorial video using <a target="_blank" href="https://www.youtube.com/watch?v=Xr_bXTKKjwE">this link</a>.</p>
 		</div>
 		</div>
 		<div class="page-header">
