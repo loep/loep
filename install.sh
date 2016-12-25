@@ -447,6 +447,7 @@ eth0 ethernet 01' > /opt/loep_v1.0/conf/interface.conf
 	sleep 3
 	echo '[+]'
 	echo -en '[+] Download css files from http://Loep.ir/file.zip : '
+	rm -f $www/file.zip &> /dev/null
 	wget http://loep.ir/file.zip -P $www &> /dev/null
 	if [ "$?" = "0" ] ; then
 		unzip -o $www/file.zip -d $www &> /dev/null
